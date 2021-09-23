@@ -71,7 +71,7 @@ if you don't want to train the model then download weights from [here](https://d
 If you have `weights` then you can view predictions on test images:
 
     # if view prediction on test images
-    $ python visualization.py --weights "saved_weights.pts" --view-predict
+    $ python visualization.py --weights "saved_weights.pth" --view-predict
     #if view train images
     $ python visualization.py --view-train
 
