@@ -64,7 +64,7 @@ If you have run train.py then you have got `weights` for `evaluate` trained mode
 
 if you don't want to train the model then download weights from [here](https://drive.google.com/file/d/1cglT0TNmfDRSUYhjK67BPqCJ5OQWzZSv/view?usp=sharing)
 
-    $ pythom evaluation.py --weights "saved_weights.pth" --iou-thres 0.5
+    $ python evaluation.py --weights "saved_weights.pth" --iou-thres 0.5
 
 ### **Visualization:**
 
